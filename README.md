@@ -113,6 +113,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 **IDEs & Tools**
 
 ![Antigravity](https://img.shields.io/badge/Antigravity-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
@@ -201,26 +202,14 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoserivera&layout=compact&hide_border=true&bg_color=0d1117&title_color=d8b4fe&text_color=c9d1d9&langs_count=8" />
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=rjoserivera&hide_border=true&background=0d1117&ring=a78bfa&fire=d8b4fe&currStreakLabel=d8b4fe&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
-
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=rjoserivera&bg_color=0d1117&color=d8b4fe&line=7c3aed&point=d8b4fe&area=true&area_color=7c3aed&hide_border=true&custom_title=Actividad%20de%20commits" />
 
 </div>
 
----
-
-## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rjoserivera&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" />
-</div>
 
 ---
 
 <div align="center">
-
-*Hecho con 💜 desde la Región de Ñuble, Chile 🇨🇱*
-*Si algo de aquí te sirve, ¡dale una ⭐ a los repos!*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
