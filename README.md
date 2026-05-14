@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Jose%20Rivera%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Región%20de%20Ñuble%2C%20Chile%20🇨🇱&descAlignY=58&descSize=17&descColor=d8b4fe" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=520&height=40&lines=Next.js+%7C+React+%7C+Django+%7C+TypeScript;Integrando+LLMs+y+Agentes+de+IA+🤖;Construyendo+soluciones+reales+desde+Chile+🇨🇱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=520&height=40&lines=Next.js+%7C+React+%7C+Django+%7C+TypeScript;Integrando+LLMs+y+Agentes+de+IA;Construyendo+soluciones+reales+desde+Chile" alt="Typing SVG" />
 </p>
 
 
