@@ -23,13 +23,17 @@ Soy un desarrollador Full Stack apasionado por construir productos web que resue
 Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia Artificial** cuando el problema lo pide.
 
 - 🛠️ Desarrollando **Austral Collector** — plataforma web para un cliente coleccionista
-- 🏆 Participé en la hackathon **IB0** con HR Copilot Chile (asistente laboral con IA)
+- 🏆 Participé en **Zero to Agent** (Vercel Hackathon, Abr 2026) con HR Copilot Chile
 - 🤖 Integrando **LLMs (Claude / OpenAI)** en proyectos reales
 - 🌱 Aprendiendo → Agentes autónomos · Arquitecturas escalables
 - 💬 Pregúntame sobre **Next.js, Django, PHP o IA aplicada**
 - 📫 Escríbeme a **rjoseeliecer@gmail.com**
 - 📍 Región de Ñuble, Chile 🇨🇱
-- ⚡ Fun fact: *Si el código funciona Y se ve bien, el día fue un éxito* 😄
+
+<br/>
+
+![Powered by Antigravity](https://img.shields.io/badge/AI%20Pair%20Programming-Antigravity%20by%20Google%20DeepMind-4285F4?style=flat-square&logo=deepmind&logoColor=white)
+![Claude Code](https://img.shields.io/badge/CLI%20Coding-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 </td>
 <td valign="top" align="center" width="40%">
@@ -127,6 +131,24 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ---
 
+## 🏆 Hackathones
+
+| Evento | Organizador | Fecha | Proyecto | Track |
+|:---|:---:|:---:|:---:|:---:|
+| **Zero to Agent** | Vercel | Abr 2026 | [HR Copilot Chile](https://hr-chile.vercel.app) | v0 + MCPs |
+
+---
+
+## 🗣️ Idiomas
+
+| Idioma | Nivel |
+|:---|:---:|
+| 🇨🇱 Español | Nativo |
+| 🇺🇸 Inglés | Básico / Lectura técnica |
+| 🇯🇵 Japonés | Comprensión auditiva |
+
+---
+
 ## 🚀 Proyectos destacados
 
 <div align="center">
@@ -135,7 +157,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 <td width="50%" align="center">
 
 ### 🤖 HR Copilot Chile
-🏆 *Proyecto de Hackathon IB0*
+🏆 *Zero to Agent — Vercel Global Hackathon, Abr 2026*
 
 Asistente de RRHH con IA para el contexto laboral chileno — responde dudas sobre el Código del Trabajo usando **Claude AI**
 
@@ -192,22 +214,17 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 </table>
 </div>
 
----
 
-## 📊 GitHub Stats
+
+## 🐍 Actividad en GitHub
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rjoserivera&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d8b4fe&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoserivera&layout=compact&hide_border=true&bg_color=0d1117&title_color=d8b4fe&text_color=c9d1d9&langs_count=8" />
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=rjoserivera&bg_color=0d1117&color=d8b4fe&line=7c3aed&point=d8b4fe&area=true&area_color=7c3aed&hide_border=true&custom_title=Actividad%20de%20commits" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-
----
 
 <div align="center">
 
