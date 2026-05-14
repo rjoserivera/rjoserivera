@@ -14,7 +14,9 @@
 
 ## ⭐ About me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/main/descarga.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 Soy un desarrollador Full Stack apasionado por construir productos web que resuelven problemas reales. Trabajo con clientes que quieren llevar su negocio al mundo digital, y también participo en **hackathones** donde aprendo y construyo bajo presión.
 
@@ -29,7 +31,14 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 - 📍 Región de Ñuble, Chile 🇨🇱
 - ⚡ Fun fact: *Si el código funciona Y se ve bien, el día fue un éxito* 😄
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/main/descarga.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Conecta conmigo
 
@@ -103,11 +112,14 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 **IDEs & Tools**
 
+![Antigravity](https://img.shields.io/badge/Antigravity-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-FF6D00?style=for-the-badge&logo=hitachi&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
