@@ -75,7 +75,64 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ---
 
+## 🚧 En construcción
+
+<!-- ═══════════════════════════════════════════════════════
+     CÓMO ACTUALIZAR EL PROGRESO:
+     1. Cambia el número en la URL de geps.dev: /progress/93 → /progress/95
+     2. Cambia el badge: 93%25 → 95%25
+     ═══════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,f59e0b,0d9488&height=4&section=header"/>
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 🪙 Austral Collector
+> Plataforma web comunitaria para coleccionistas chilenos de figuras vintage, juguetes retro y objetos de colección — estética Dark-Fantasy & Steampunk
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Features implementadas:**
+- ✅ Catálogo de figuras vintage y objetos de colección
+- ✅ API REST con PHP + autenticación JWT
+- ✅ Soporte offline (PWA)
+- ✅ Diseño Dark-Fantasy / Steampunk con animaciones fluidas
+- ✅ Modales interactivos
+- ✅ Panel de administración + logs de actividad
+- ✅ Integración con Instagram
+- 🔄 Fase de testing y correcciones finales
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<br/>
+
+![93%](https://img.shields.io/badge/Completado-93%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
+
+<br/>
+
+![progress](https://geps.dev/progress/93?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
+
+<br/>
+
+![Estado](https://img.shields.io/badge/Estado-Testing-f59e0b?style=flat-square&logo=testinglibrary&logoColor=white)
+![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ My Skills Include
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=4&section=header"/>
 
 **Languages**
 
@@ -143,6 +200,8 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ## 🏆 Hackathones
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=4&section=header"/>
+
 | Evento | Organizador | Fecha | Proyecto | Track |
 |:---|:---:|:---:|:---:|:---:|
 | **Zero to Agent** | Vercel | Abr 2026 | [HR Copilot Chile](https://hr-chile.vercel.app) | v0 + MCPs |
@@ -150,6 +209,8 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 ---
 
 ## 🗣️ Idiomas
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=4&section=header"/>
 
 | Idioma | Nivel |
 |:---|:---:|
@@ -161,10 +222,12 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ## 🚀 Proyectos destacados
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0d9488,100:2563eb&height=4&section=header"/>
+
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=5&section=header"/>
 
@@ -181,7 +244,7 @@ Asistente de RRHH con IA para el contexto laboral chileno — responde dudas sob
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge)](https://hr-chile.vercel.app)
 
 </td>
-<td width="50%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d9488&height=5&section=header"/>
 
@@ -200,7 +263,7 @@ Plataforma comunitaria para coleccionistas chilenos de figuras vintage y juguete
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=5&section=header"/>
 
@@ -214,7 +277,7 @@ Gestión de inventario con **agente de IA** — consultas en lenguaje natural
 [![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-2563eb?style=for-the-badge)](https://github.com/rjoserivera/Agente_inventario_sistema)
 
 </td>
-<td width="50%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=16a34a&height=5&section=header"/>
 
@@ -232,61 +295,7 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 </table>
 </div>
 
-
-
 ---
-
-## 🚧 En construcción
-
-<!-- ═══════════════════════════════════════════════════════
-     CÓMO ACTUALIZAR EL PROGRESO:
-     1. Cambia el número en la URL de geps.dev: /progress/93 → /progress/95
-     2. Cambia el badge: 93%25 → 95%25
-     ═══════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### 🪙 Austral Collector
-> Plataforma web comunitaria para coleccionistas chilenos de figuras vintage, juguetes retro y objetos de colección — estética Dark-Fantasy & Steampunk
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-**Features implementadas:**
-- ✅ Catálogo de figuras vintage y objetos de colección
-- ✅ API REST con PHP + autenticación JWT
-- ✅ Soporte offline (PWA)
-- ✅ Diseño Dark-Fantasy / Steampunk con animaciones fluidas
-- ✅ Modales interactivos
-- ✅ Panel de administración + logs de actividad
-- ✅ Integración con Instagram
-- 🔄 Fase de testing y correcciones finales
-
-</td>
-<td valign="top" align="center" width="40%">
-
-<br/>
-
-![93%](https://img.shields.io/badge/Completado-93%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
-
-<br/>
-
-![progress](https://geps.dev/progress/93?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
-
-<br/>
-
-![Estado](https://img.shields.io/badge/Estado-Testing-f59e0b?style=flat-square&logo=testinglibrary&logoColor=white)
-![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
-
-</td>
-</tr>
-</table>
-
 
 ## 🐍 Actividad en GitHub
 
