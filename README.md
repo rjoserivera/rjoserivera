@@ -166,6 +166,8 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 <tr>
 <td width="50%" align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=5&section=header"/>
+
 ### 🤖 HR Copilot Chile
 🏆 *Zero to Agent — Vercel Global Hackathon, Abr 2026*
 
@@ -181,34 +183,40 @@ Asistente de RRHH con IA para el contexto laboral chileno — responde dudas sob
 </td>
 <td width="50%" align="center">
 
-### 🪙 Austral Collector
-👤 *Proyecto para cliente*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d9488&height=5&section=header"/>
 
-Plataforma web para un coleccionista de figuras y juguetes que tenía presencia en Instagram y quería expandirse al mundo digital
+### 🪙 Austral Collector
+👤 *Proyecto para cliente — en Testing*
+
+Plataforma comunitaria para coleccionistas chilenos de figuras vintage y juguetes retro — estética Dark-Fantasy & Steampunk con soporte PWA
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-1a1a2e?style=for-the-badge)](https://github.com/rjoserivera/Austral_Collector)
+[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-0d9488?style=for-the-badge)](https://github.com/rjoserivera/Austral_Collector)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=5&section=header"/>
+
 ### 📦 Agente Inventario
 Gestión de inventario con **agente de IA** — consultas en lenguaje natural
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI Agent](https://img.shields.io/badge/AI_Agent-7c3aed?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI_Agent-2563eb?style=flat-square)
 
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-1a1a2e?style=for-the-badge)](https://github.com/rjoserivera/Agente_inventario_sistema)
+[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-2563eb?style=for-the-badge)](https://github.com/rjoserivera/Agente_inventario_sistema)
 
 </td>
 <td width="50%" align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=16a34a&height=5&section=header"/>
 
 ### 🏥 OB Care
 Sistema de gestión obstétrica con control de acceso por **roles y permisos**
@@ -217,7 +225,7 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-1a1a2e?style=for-the-badge)](https://github.com/rjoserivera/obtetric_care)
+[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-16a34a?style=for-the-badge)](https://github.com/rjoserivera/obtetric_care)
 
 </td>
 </tr>
@@ -241,20 +249,23 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 <td valign="top" width="60%">
 
 ### 🪙 Austral Collector
-> Plataforma web full stack para un cliente coleccionista de figuras y juguetes
+> Plataforma web comunitaria para coleccionistas chilenos de figuras vintage, juguetes retro y objetos de colección — estética Dark-Fantasy & Steampunk
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-**Lo que está hecho:**
-- ✅ Catálogo de productos y colecciones
-- ✅ Autenticación y perfiles de usuario
-- ✅ Panel de administración completo
+**Features implementadas:**
+- ✅ Catálogo de figuras vintage y objetos de colección
+- ✅ API REST con PHP + autenticación JWT
+- ✅ Soporte offline (PWA)
+- ✅ Diseño Dark-Fantasy / Steampunk con animaciones fluidas
+- ✅ Modales interactivos
+- ✅ Panel de administración + logs de actividad
 - ✅ Integración con Instagram
-- ✅ Sistema de noticias y eventos
-- 🔄 Sistema de pagos online
+- 🔄 Fase de testing y correcciones finales
 
 </td>
 <td valign="top" align="center" width="40%">
@@ -269,12 +280,13 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 
 <br/>
 
-![Estado](https://img.shields.io/badge/Estado-En%20Producción-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
+![Estado](https://img.shields.io/badge/Estado-Testing-f59e0b?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
 
 </td>
 </tr>
 </table>
+
 
 ## 🐍 Actividad en GitHub
 
