@@ -230,18 +230,51 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 
 ## 🚧 En construcción
 
-<!-- INSTRUCCIONES PARA ACTUALIZAR EL PROGRESO:
-     Cambia los bloques █ y ░ para reflejar el porcentaje actual.
-     Bloques llenos: █  |  Bloques vacíos: ░  |  Total: 10 bloques
-     Ejemplos:
-       50% → ████░░░░░░  50%
-       75% → ███████░░░  75%
-     También actualiza el badge cambiando el número antes de %25
--->
+<!-- ═══════════════════════════════════════════════════════
+     CÓMO ACTUALIZAR EL PROGRESO:
+     1. Cambia el número en la URL de geps.dev: /progress/93 → /progress/95
+     2. Cambia el badge: 93%25 → 95%25
+     ═══════════════════════════════════════════════════════ -->
 
-| Proyecto | Stack | Progreso |
-|:---|:---:|:---:|
-| 🪙 **Austral Collector** — Sistema de pagos online | React · Django · MySQL | ![80%](https://img.shields.io/badge/-80%25-7c3aed?style=flat-square) `████████░░` |
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 🪙 Austral Collector
+> Plataforma web full stack para un cliente coleccionista de figuras y juguetes
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Lo que está hecho:**
+- ✅ Catálogo de productos y colecciones
+- ✅ Autenticación y perfiles de usuario
+- ✅ Panel de administración completo
+- ✅ Integración con Instagram
+- ✅ Sistema de noticias y eventos
+- 🔄 Sistema de pagos online
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<br/>
+
+![93%](https://img.shields.io/badge/Completado-93%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
+
+<br/>
+
+![progress](https://geps.dev/progress/93?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
+
+<br/>
+
+![Estado](https://img.shields.io/badge/Estado-En%20Producción-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
+![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ## 🐍 Actividad en GitHub
 
