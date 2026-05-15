@@ -40,6 +40,12 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 <img src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/main/descarga.gif" width="300" />
 
+<br/>
+
+<a href="https://novatorem-tawny-kappa.vercel.app/redirect" target="_blank">
+  <img src="https://novatorem-tawny-kappa.vercel.app/" width="300" alt="Spotify Now Playing" />
+</a>
+
 </td>
 </tr>
 </table>
