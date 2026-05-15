@@ -30,17 +30,18 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 - 📫 Escríbeme a **rjoseeliecer@gmail.com**
 - 📍 Región de Ñuble, Chile 🇨🇱
 
-<br/>
-
-![Powered by Antigravity](https://img.shields.io/badge/AI%20Pair%20Programming-Antigravity%20by%20Google%20DeepMind-4285F4?style=flat-square&logo=deepmind&logoColor=white)
-![Claude Code](https://img.shields.io/badge/CLI%20Coding-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-
 </td>
 <td valign="top" align="center" width="40%">
 
 <img src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/main/descarga.gif" width="300" />
 
 <br/>
+
+**🎵 Escuchando ahora**
+
+<a href="https://open.spotify.com/user/21lonbvowd42aykso6kvlzdqq" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-rjoserivera-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 <a href="https://novatorem-tawny-kappa.vercel.app/redirect" target="_blank">
   <img src="https://novatorem-tawny-kappa.vercel.app/" width="300" alt="Spotify Now Playing" />
