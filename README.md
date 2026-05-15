@@ -30,6 +30,8 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 - 📫 Escríbeme a **rjoseeliecer@gmail.com**
 - 📍 Región de Ñuble, Chile 🇨🇱
 
+![Experiencia](https://img.shields.io/badge/Desarrollando%20desde-2022-7c3aed?style=flat-square&logo=code&logoColor=white)
+
 </td>
 <td valign="top" align="center" width="40%">
 
@@ -40,7 +42,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 **🎵 Escuchando ahora**
 
 <a href="https://open.spotify.com/user/21lonbvowd42aykso6kvlzdqq" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-rjoserivera-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-Bocchi%20Scummy-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 <a href="https://novatorem-tawny-kappa.vercel.app/redirect" target="_blank">
@@ -135,6 +137,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -222,6 +225,23 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 </div>
 
 
+
+---
+
+## 🚧 En construcción
+
+<!-- INSTRUCCIONES PARA ACTUALIZAR EL PROGRESO:
+     Cambia los bloques █ y ░ para reflejar el porcentaje actual.
+     Bloques llenos: █  |  Bloques vacíos: ░  |  Total: 10 bloques
+     Ejemplos:
+       50% → ████░░░░░░  50%
+       75% → ███████░░░  75%
+     También actualiza el badge cambiando el número antes de %25
+-->
+
+| Proyecto | Stack | Progreso |
+|:---|:---:|:---:|
+| 🪙 **Austral Collector** — Sistema de pagos online | React · Django · MySQL | ![80%](https://img.shields.io/badge/-80%25-7c3aed?style=flat-square) `████████░░` |
 
 ## 🐍 Actividad en GitHub
 
