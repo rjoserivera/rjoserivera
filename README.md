@@ -113,7 +113,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 <br/>
 
-![93%](https://img.shields.io/badge/Completado-93%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
+![93%](https://img.shields.io/badge/Completado-97%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
 
 <br/>
 
