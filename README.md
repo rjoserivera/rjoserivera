@@ -117,7 +117,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 <br/>
 
-![progress](https://geps.dev/progress/93?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
+![progress](https://geps.dev/progress/97?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
 
 <br/>
 
