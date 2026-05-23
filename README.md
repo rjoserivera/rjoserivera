@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=520&height=40&lines=Next.js+%7C+React+%7C+Django+%7C+TypeScript;Integrando+LLMs+y+Agentes+de+IA;Construyendo+soluciones+reales+desde+Chile" alt="Typing SVG" />
 </p>
 
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rjoserivera&color=7c3aed&style=flat-square&label=Visitas+al+perfil" alt="Visitor counter" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Disponible-22c55e?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Work" />
+</p>
 
 </div>
 
@@ -22,7 +26,7 @@ Soy un desarrollador Full Stack apasionado por construir productos web que resue
 
 Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia Artificial** cuando el problema lo pide.
 
-- 🛠️ Desarrollando **Austral Collector** — plataforma web para un cliente coleccionista
+- 🔍 En búsqueda del siguiente proyecto
 - 🏆 Participé en **Zero to Agent** (Vercel Hackathon, Abr 2026) con HR Copilot Chile
 - 🤖 Integrando **LLMs (Claude / OpenAI)** en proyectos reales
 - 🌱 Aprendiendo → Agentes autónomos · Arquitecturas escalables
@@ -75,60 +79,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ---
 
-## 🚧 En construcción
 
-<!-- ═══════════════════════════════════════════════════════
-     CÓMO ACTUALIZAR EL PROGRESO:
-     1. Cambia el número en la URL de geps.dev: /progress/93 → /progress/95
-     2. Cambia el badge: 93%25 → 95%25
-     ═══════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,f59e0b,0d9488&height=4&section=header"/>
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### 🪙 Austral Collector
-> Plataforma web comunitaria para coleccionistas chilenos de figuras vintage, juguetes retro y objetos de colección — estética Dark-Fantasy & Steampunk
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-**Features implementadas:**
-- ✅ Catálogo de figuras vintage y objetos de colección
-- ✅ API REST con PHP + autenticación JWT
-- ✅ Soporte offline (PWA)
-- ✅ Diseño Dark-Fantasy / Steampunk con animaciones fluidas
-- ✅ Modales interactivos
-- ✅ Panel de administración + logs de actividad
-- ✅ Integración con Instagram
-- 🔄 Fase de testing y correcciones finales
-
-</td>
-<td valign="top" align="center" width="40%">
-
-<br/>
-
-![93%](https://img.shields.io/badge/Completado-93%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
-
-<br/>
-
-![progress](https://geps.dev/progress/93?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
-
-<br/>
-
-![Estado](https://img.shields.io/badge/Estado-Testing-f59e0b?style=flat-square&logo=testinglibrary&logoColor=white)
-![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ My Skills Include
 
@@ -249,7 +200,7 @@ Asistente de RRHH con IA para el contexto laboral chileno — responde dudas sob
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d9488&height=5&section=header"/>
 
 ### 🪙 Austral Collector
-👤 *Proyecto para cliente — en Testing*
+👤 *Proyecto para cliente — Completado*
 
 Plataforma comunitaria para coleccionistas chilenos de figuras vintage y juguetes retro — estética Dark-Fantasy & Steampunk con soporte PWA
 
@@ -259,6 +210,7 @@ Plataforma comunitaria para coleccionistas chilenos de figuras vintage y juguete
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-0d9488?style=for-the-badge)](https://github.com/rjoserivera/Austral_Collector)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge)](https://australcollector.cl/)
 
 </td>
 </tr>
@@ -300,11 +252,25 @@ Sistema de gestión obstétrica con control de acceso por **roles y permisos**
 ## 🐍 Actividad en GitHub
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rjoserivera&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/rjoserivera/rjoserivera/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
 </div>
 
 <div align="center">
