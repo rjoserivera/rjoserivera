@@ -80,61 +80,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 ---
 
 
-<<<<<<< HEAD
-=======
-<!-- ═══════════════════════════════════════════════════════
-     CÓMO ACTUALIZAR EL PROGRESO:
-     1. Cambia el número en la URL de geps.dev: /progress/93 → /progress/95
-     2. Cambia el badge: 93%25 → 95%25
-     ═══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,f59e0b,0d9488&height=4&section=header"/>
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### 🪙 Austral Collector
-> Plataforma web comunitaria para coleccionistas chilenos de figuras vintage, juguetes retro y objetos de colección — estética Dark-Fantasy & Steampunk
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-**Features implementadas:**
-- ✅ Catálogo de figuras vintage y objetos de colección
-- ✅ API REST con PHP + autenticación JWT
-- ✅ Soporte offline (PWA)
-- ✅ Diseño Dark-Fantasy / Steampunk con animaciones fluidas
-- ✅ Modales interactivos
-- ✅ Panel de administración + logs de actividad
-- ✅ Integración con Instagram
-- 🔄 Fase de testing y correcciones finales
-
-</td>
-<td valign="top" align="center" width="40%">
-
-<br/>
-
-![93%](https://img.shields.io/badge/Completado-97%25-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
-
-<br/>
-
-![progress](https://geps.dev/progress/97?dangerColor=ef4444&warningColor=f59e0b&successColor=7c3aed)
-
-<br/>
-
-![Estado](https://img.shields.io/badge/Estado-Testing-f59e0b?style=flat-square&logo=testinglibrary&logoColor=white)
-![Versión](https://img.shields.io/badge/Versión-2.0-7c3aed?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
->>>>>>> d8d3891d8d24d2ea98e5907f6ba75270510b9eee
 
 ## 🛠️ My Skills Include
 
