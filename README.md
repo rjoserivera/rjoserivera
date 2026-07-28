@@ -69,7 +69,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
   </a>
   &nbsp;
   <a href="https://www.instagram.com/imagine.breaker_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-imagine.breaker__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-imagine.natsuki_subaru_pride_if_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/rjoserivera" target="_blank">
