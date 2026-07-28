@@ -68,7 +68,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
     <img src="https://img.shields.io/badge/Gmail-rjoseeliecer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/imagine.breaker_/" target="_blank">
+  <a href="https://www.instagram.com/natsuki_subaru_pride_if/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-imagine.natsuki_subaru_pride_if_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
