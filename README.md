@@ -186,7 +186,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 Plataforma de bienestar y productividad con bitácora, seguimiento emocional, paneles, alertas y gamificación.
 
-`React 19` `Vite 8` `PHP 8.3` `MySQL`
+![React](https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite_8-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.3-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [Ver sitio](https://kreative-vit.alphadocere.cl/) · [Ver código](https://github.com/rjoserivera/Kreative_Vit)
 
@@ -198,7 +198,7 @@ Plataforma de bienestar y productividad con bitácora, seguimiento emocional, pa
 
 Plataforma comunitaria y PWA para coleccionistas chilenos de figuras vintage y juguetes retro.
 
-`React` `PHP` `MySQL` `PWA`
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
 
 [Ver sitio](https://australcollector.cl/) · [Ver código](https://github.com/rjoserivera/Austral_Collector)
 
@@ -212,7 +212,7 @@ Plataforma comunitaria y PWA para coleccionistas chilenos de figuras vintage y j
 
 Asistente de RR. HH. con IA para consultas sobre el contexto laboral chileno.
 
-`Next.js` `TypeScript` `Claude AI`
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 [Ver sitio](https://hr-chile.vercel.app)
 
@@ -224,7 +224,7 @@ Asistente de RR. HH. con IA para consultas sobre el contexto laboral chileno.
 
 Correcciones de frontend y mejoras en los flujos de perfiles y onboarding.
 
-`JavaScript` `PHP` `MySQL` `Bootstrap`
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 [Ver sitio](https://kreative.alphadocere.cl/) · [Ver código](https://github.com/manosYaEducation/Gen10_Perfiles_web)
 
@@ -238,7 +238,7 @@ Correcciones de frontend y mejoras en los flujos de perfiles y onboarding.
 
 Correcciones y funcionalidades en publicaciones, filtros, rutas, roles y autenticación.
 
-`PHP MVC` `JavaScript` `MySQL` `JWT`
+![PHP MVC](https://img.shields.io/badge/PHP_MVC-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 [Ver sitio](https://wiki.alphadocere.cl/frontend/) · [Ver código](https://github.com/manosYaEducation/wiki-kreative-gen15.5)
 
@@ -250,7 +250,7 @@ Correcciones y funcionalidades en publicaciones, filtros, rutas, roles y autenti
 
 Integración de registro, acceso, protección de rutas y verificación por correo.
 
-`JWT` `PHP` `Email` `MySQL`
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [Ver sitio](https://systemauth.alphadocere.cl/) · [Ver código](https://github.com/manosYaEducation/jwt-mail-qr)
 
