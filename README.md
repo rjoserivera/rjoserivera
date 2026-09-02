@@ -172,81 +172,29 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0d9488,100:2563eb&height=4&section=header"/>
 
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="50%" align="center">
+### Desarrollos completos
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=5&section=header"/>
+| Proyecto | Descripción | Tecnologías | Enlaces |
+|:---|:---|:---|:---:|
+| **Kreative Vit** | Plataforma de bienestar y productividad con bitácora, seguimiento emocional, solicitudes de ayuda, paneles, alertas y gamificación. | React 19 · Vite 8 · PHP 8.3 · MySQL | [Sitio](https://kreative-vit.alphadocere.cl/) · [Código](https://github.com/rjoserivera/Kreative_Vit) |
+| **Austral Collector** | Plataforma comunitaria y PWA para coleccionistas chilenos de figuras vintage y juguetes retro. | React · PHP · MySQL · PWA | [Sitio](https://australcollector.cl/) · [Código](https://github.com/rjoserivera/Austral_Collector) |
+| **HR Copilot Chile** | Asistente de RR. HH. con IA para consultas sobre el contexto laboral chileno, creado durante Zero to Agent de Vercel. | Next.js · TypeScript · Claude AI | [Sitio](https://hr-chile.vercel.app) |
 
-### 🤖 HR Copilot Chile
-🏆 *Zero to Agent — Vercel Global Hackathon, Abr 2026*
+### Contribuciones técnicas
 
-Asistente de RRHH con IA para el contexto laboral chileno — responde dudas sobre el Código del Trabajo usando **Claude AI**
+| Proyecto | Mi contribución | Tecnologías | Enlaces |
+|:---|:---|:---|:---:|
+| **Kreative · Perfiles Web** | Correcciones de frontend y mejoras en los flujos de perfiles y onboarding. | JavaScript · PHP · MySQL · Bootstrap | [Sitio](https://kreative.alphadocere.cl/) · [Código](https://github.com/manosYaEducation/Gen10_Perfiles_web) |
+| **Wiki Kreative** | Correcciones y funcionalidades en publicaciones, filtros, rutas, roles y autenticación. | PHP MVC · JavaScript · MySQL · JWT | [Sitio](https://wiki.alphadocere.cl/frontend/) · [Código](https://github.com/manosYaEducation/wiki-kreative-gen15.5) |
+| **Sistema Auth Alpha Docere** | Soporte técnico e integración de registro, acceso, protección de rutas y verificación por correo. | JWT · PHP · Email · MySQL | [Sitio](https://systemauth.alphadocere.cl/) · [Código](https://github.com/manosYaEducation/jwt-mail-qr) |
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge)](https://hr-chile.vercel.app)
-
-</td>
-<td valign="top" width="50%" align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d9488&height=5&section=header"/>
-
-### 🪙 Austral Collector
-👤 *Proyecto para cliente — Completado*
-
-Plataforma comunitaria para coleccionistas chilenos de figuras vintage y juguetes retro — estética Dark-Fantasy & Steampunk con soporte PWA
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-0d9488?style=for-the-badge)](https://github.com/rjoserivera/Austral_Collector)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge)](https://australcollector.cl/)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%" align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=5&section=header"/>
-
-### 📦 Agente Inventario
-Gestión de inventario con **agente de IA** — consultas en lenguaje natural
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI Agent](https://img.shields.io/badge/AI_Agent-2563eb?style=flat-square)
-
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-2563eb?style=for-the-badge)](https://github.com/rjoserivera/Agente_inventario_sistema)
-
-</td>
-<td valign="top" width="50%" align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=16a34a&height=5&section=header"/>
-
-### 🏥 OB Care
-Sistema de gestión obstétrica con control de acceso por **roles y permisos**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-[![Ver Repo](https://img.shields.io/badge/📂_Ver_Repo-16a34a?style=for-the-badge)](https://github.com/rjoserivera/obtetric_care)
-
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://portfolio-page-for-ui-developer-two-beige.vercel.app"><strong>Ver portafolio completo</strong></a>
+</p>
 
 ---
 
