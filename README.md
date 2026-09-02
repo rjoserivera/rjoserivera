@@ -27,7 +27,7 @@ Soy un desarrollador Full Stack apasionado por construir productos web que resue
 Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia Artificial** cuando el problema lo pide.
 
 - 🔍 En búsqueda del siguiente proyecto
-- 🏆 Participé en **Zero to Agent** (Vercel Hackathon, Abr 2026) con HR Copilot Chile
+- Participé en **Zero to Agent** (Vercel Hackathon, Abr 2026) con HR Copilot Chile
 - 🤖 Integrando **LLMs (Claude / OpenAI)** en proyectos reales
 - 🌱 Aprendiendo → Agentes autónomos · Arquitecturas escalables
 - 💬 Pregúntame sobre **Next.js, Django, PHP o IA aplicada**
@@ -68,8 +68,8 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
     <img src="https://img.shields.io/badge/Gmail-rjoseeliecer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/natsuki_subaru_pride_if/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-imagine.natsuki_subaru_pride_if_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://portfolio-page-for-ui-developer-two-beige.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/rjoserivera" target="_blank">
@@ -150,7 +150,7 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 ---
 
-## 🏆 Hackathones
+## Hackathones
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=4&section=header"/>
 
@@ -176,37 +176,94 @@ Me especializo en **Next.js**, **React** y **Django**, e integro **Inteligencia 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0d9488,100:2563eb&height=4&section=header"/>
 
-### Desarrollos completos
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%" align="center">
 
-| Proyecto | Descripción | Tecnologías | Enlaces |
-|:---|:---|:---|:---:|
-| **Kreative Vit** | Plataforma de bienestar y productividad con bitácora, seguimiento emocional, solicitudes de ayuda, paneles, alertas y gamificación. | React 19 · Vite 8 · PHP 8.3 · MySQL | [Sitio](https://kreative-vit.alphadocere.cl/) · [Código](https://github.com/rjoserivera/Kreative_Vit) |
-| **Austral Collector** | Plataforma comunitaria y PWA para coleccionistas chilenos de figuras vintage y juguetes retro. | React · PHP · MySQL · PWA | [Sitio](https://australcollector.cl/) · [Código](https://github.com/rjoserivera/Austral_Collector) |
-| **HR Copilot Chile** | Asistente de RR. HH. con IA para consultas sobre el contexto laboral chileno, creado durante Zero to Agent de Vercel. | Next.js · TypeScript · Claude AI | [Sitio](https://hr-chile.vercel.app) |
+### Kreative Vit
+**Desarrollo completo**
 
-### Contribuciones técnicas
+Plataforma de bienestar y productividad con bitácora, seguimiento emocional, paneles, alertas y gamificación.
 
-| Proyecto | Mi contribución | Tecnologías | Enlaces |
-|:---|:---|:---|:---:|
-| **Kreative · Perfiles Web** | Correcciones de frontend y mejoras en los flujos de perfiles y onboarding. | JavaScript · PHP · MySQL · Bootstrap | [Sitio](https://kreative.alphadocere.cl/) · [Código](https://github.com/manosYaEducation/Gen10_Perfiles_web) |
-| **Wiki Kreative** | Correcciones y funcionalidades en publicaciones, filtros, rutas, roles y autenticación. | PHP MVC · JavaScript · MySQL · JWT | [Sitio](https://wiki.alphadocere.cl/frontend/) · [Código](https://github.com/manosYaEducation/wiki-kreative-gen15.5) |
-| **Sistema Auth Alpha Docere** | Soporte técnico e integración de registro, acceso, protección de rutas y verificación por correo. | JWT · PHP · Email · MySQL | [Sitio](https://systemauth.alphadocere.cl/) · [Código](https://github.com/manosYaEducation/jwt-mail-qr) |
+`React 19` `Vite 8` `PHP 8.3` `MySQL`
 
-<p align="center">
-  <a href="https://portfolio-page-for-ui-developer-two-beige.vercel.app"><strong>Ver portafolio completo</strong></a>
-</p>
+[Ver sitio](https://kreative-vit.alphadocere.cl/) · [Ver código](https://github.com/rjoserivera/Kreative_Vit)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### Austral Collector
+**Desarrollo completo**
+
+Plataforma comunitaria y PWA para coleccionistas chilenos de figuras vintage y juguetes retro.
+
+`React` `PHP` `MySQL` `PWA`
+
+[Ver sitio](https://australcollector.cl/) · [Ver código](https://github.com/rjoserivera/Austral_Collector)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+### HR Copilot Chile
+**Desarrollo completo**
+
+Asistente de RR. HH. con IA para consultas sobre el contexto laboral chileno.
+
+`Next.js` `TypeScript` `Claude AI`
+
+[Ver sitio](https://hr-chile.vercel.app)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### Kreative · Perfiles Web
+**Contribución técnica**
+
+Correcciones de frontend y mejoras en los flujos de perfiles y onboarding.
+
+`JavaScript` `PHP` `MySQL` `Bootstrap`
+
+[Ver sitio](https://kreative.alphadocere.cl/) · [Ver código](https://github.com/manosYaEducation/Gen10_Perfiles_web)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+### Wiki Kreative
+**Contribución técnica**
+
+Correcciones y funcionalidades en publicaciones, filtros, rutas, roles y autenticación.
+
+`PHP MVC` `JavaScript` `MySQL` `JWT`
+
+[Ver sitio](https://wiki.alphadocere.cl/frontend/) · [Ver código](https://github.com/manosYaEducation/wiki-kreative-gen15.5)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### Sistema Auth Alpha Docere
+**Contribución técnica**
+
+Integración de registro, acceso, protección de rutas y verificación por correo.
+
+`JWT` `PHP` `Email` `MySQL`
+
+[Ver sitio](https://systemauth.alphadocere.cl/) · [Ver código](https://github.com/manosYaEducation/jwt-mail-qr)
+
+</td>
+</tr>
+</table>
+
+[**Ver portafolio completo**](https://portfolio-page-for-ui-developer-two-beige.vercel.app)
+</div>
 
 ---
 
 ## 🐍 Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rjoserivera&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
